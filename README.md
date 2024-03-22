@@ -45,7 +45,7 @@ showButton|展示按钮插槽|请先设置useCustomShowButton为true开启自定
 ##### useCustomTableSetup
 **使用方法：**
 ```js
-import { hooks } from 'vue3-base-components'
+import { hooks } from './src/components/CustomTableSetup/hooks.ts'
 const {
   allColumn,
   tableColumn,
